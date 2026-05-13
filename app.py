@@ -1,1 +1,1 @@
-def calculate(x): return x * 2
+def calculate(x): return x * 0  # BUG
